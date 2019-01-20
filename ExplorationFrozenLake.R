@@ -1,3 +1,6 @@
+#Nacho Garcia 2019
+#garcia.nacho@gmail.com
+
 library(gym)
 library(ggplot2)
 
